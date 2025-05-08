@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SDL_",
+				"SDL_Delay"
+			],
+			[
+				"neutralize",
+				"neutralizeSources"
+			],
+			[
+				"global",
+				"bestGlobalItn"
+			],
+			[
+				"half",
+				"half2Start"
+			],
+			[
+				"hal",
+				"half1End"
+			],
+			[
+				"neut",
+				"neutralizedSources"
+			],
+			[
+				"Textu",
+				"SDL_Texture"
+			],
+			[
+				"SD",
+				"SDL_Color"
+			],
+			[
+				"MAX_",
+				"MAX_DISTANCE"
+			],
+			[
+				"get",
+				"getDistanceRS"
+			],
+			[
+				"calc",
+				"calcGradient"
+			],
+			[
+				"distances",
+				"distancesRR"
+			],
+			[
+				"bes",
+				"bestGlobalItn"
+			],
+			[
+				"bgr",
+				"bgr_B"
+			],
+			[
+				"bgr_",
+				"bgr_B"
+			],
+			[
+				"MAP",
+				"MAP_HEIGHT"
+			],
+			[
+				"disp",
+				"displayIndex"
+			],
+			[
+				"SCRE",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"ro",
+				"robotTex"
+			],
+			[
+				"Graphi",
+				"GraphicsData"
+			],
+			[
+				"MIN_",
+				"MIN_INTENSITY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/abzal/Documents/Unity Projects/Essentials Pathway/Assets/_Unity Essentials/Scripts/PlayerController.cs",
+			"settings":
+			{
+				"buffer_size": 287,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 154.339630127,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/abzal/Documents/PSO simulation",
+		"/home/abzal/Documents/PSO simulation/include",
+		"/home/abzal/Documents/PSO simulation/src"
+	],
+	"file_history":
+	[
+		"/home/abzal/.bashrc",
+		"/home/abzal/fortune_env/bin/activate",
+		"/usr/share/cowsay/cows/flaming-sheep.cow",
+		"/home/abzal/.local/share/Steam/steamapps/compatdata/638970/tracked_files",
+		"/home/abzal/.local/share/Steam/steamapps/compatdata/638970/pfx/user.reg",
+		"/home/abzal/Documents/hello/hello.c",
+		"/home/abzal/Documents/hello/hello.cpp",
+		"/home/abzal/Documents/Earth/main.cpp",
+		"/home/abzal/Documents/Earth/earth_night.txt",
+		"/run/media/abzal/Data/Windows Documents/Documents/Programming/EEE.cpp",
+		"/home/abzal/Documents/Earth/.git/config",
+		"/home/abzal/Documents/Earth/earth.txt",
+		"/home/abzal/Documents/PSO simulation/src/Window.cpp",
+		"/home/abzal/Documents/PSO simulation/include/Params.hpp",
+		"/home/abzal/Documents/PSO simulation/src/main.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Entity.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Label.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Map.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Random.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Robot.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Sensor.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Source.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Utils.cpp",
+		"/home/abzal/Documents/PSO simulation/src/Vector.cpp",
+		"/home/abzal/Downloads/01_hello_SDL/01_hello_SDL.cpp",
+		"/home/abzal/Downloads/01_hello_SDL/readme.txt",
+		"/home/abzal/Documents/PSO simulation/src/PSO.cpp",
+		"/home/abzal/Documents/PSO simulation/include/PSO.hpp",
+		"/home/abzal/Documents/PSO simulation/build/Entity.d",
+		"/home/abzal/Documents/PSO simulation/include/Entity.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Label.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Map.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Random.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Robot.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Sensor.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Slider.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Source.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Utils.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Vector.hpp",
+		"/home/abzal/Documents/PSO simulation/include/Window.hpp",
+		"/home/abzal/Documents/PSO simulation/Makefile",
+		"/home/abzal/Documents/PSO simulation/a.txt",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Entity.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Vector.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Source.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Sensor.hpp",
+		"/C/Users/abzal/Downloads/cdilink-0.5.2/cdilink-0.5.2/cdilink.txt",
+		"/C/Users/abzal/Downloads/cdilink-0.5.2/cdilink-0.5.2/README",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Robot.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Map.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Window.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/RenderWindow.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Utils.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/PSO simulation.sublime-project",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/build/Entity.o",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/build/Entity.d",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Utils.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Sensor.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Map.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Entity.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/PSO.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/PSO.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/RenderWindow.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Random.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Random.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Robot.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/Makefile",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/out.txt",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Source.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/MouseHandler.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/include/Label.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/main.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/S2/AI/labs/lab 1/PSO simulation/src/Label.cpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/Vector.cpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/Source.cpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/Robot.cpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/renderwindow.cpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/main.cpp",
+		"/E/abzal/Documents/Programming/autoclick/autoclick.cpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/entity.cpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Vector.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Utils.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Source.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Robot.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/RenderWindow.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Random.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/PSO.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/MouseHandler.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Label.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Entity.hpp",
+		"/E/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/PSO simulation.sublime-project",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/main.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/PSO.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/Robot.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 2/pseudocode.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/entity.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Entity.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/Random.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Random.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Robot.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/Vector.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/Source.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Source.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/Makefile",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/PSO simulation.sublime-project",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Utils.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/RenderWindow.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/renderwindow.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Label.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/src/Label.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/PSO.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/renderwindow.o",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/Vector.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/labs/lab 1/PSO simulation/include/MouseHandler.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/src/Robot.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/include/Utils.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/include/Vector.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/src/Vector.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/src/utils.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/src/entity.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/include/Entity.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/src/Source.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/include/RenderWindow.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/include/Source.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/include/Robot.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/include/PSO.hpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/src/PSO.cpp",
+		"/C/Users/abzal/Documents/KBTU/Masters/Semester 2/AI/lab 1/PSO simulation/src/renderwindow.cpp"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/home/abzal/Documents/PSO simulation,<project filters>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sleep",
+			"windows",
+			"sleep_for",
+			";\n",
+			">\n",
+			"tex",
+			"init()",
+			"SourceDetectionRadius",
+			"sourceDetection",
+			"Map",
+			"duration_ms",
+			"in_ms",
+			"RenderWindow",
+			"g++",
+			"setVel",
+			"RESIZE_COEFF",
+			"auto",
+			"getDistance",
+			"};\n",
+			"utils::",
+			"utils",
+			"utils::",
+			"Color",
+			"gradEnab",
+			"updateVelocity",
+			"timeStep",
+			"timeSTep",
+			"timeStep",
+			"sensor",
+			"->sensor",
+			"r->sensor",
+			"map",
+			"stop",
+			"PSO::",
+			"numNeu",
+			"PSO::",
+			"sumMinDist",
+			"MAP_W",
+			"oldItn",
+			"oldLoc",
+			"oldLoc =",
+			"oldItn =",
+			"dpi",
+			"bestGlobal",
+			"bestGlobalLoc",
+			"bestGlobal",
+			"bestGlobalLoc",
+			"pso.",
+			"distance",
+			"r.vel",
+			"gen",
+			"min",
+			"SPEED",
+			"MAX_DISTANCE",
+			"float"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/abzal/Documents/Unity Projects/Essentials Pathway/Assets/_Unity Essentials/Scripts/PlayerController.cs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 44.679245283
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build from makefile",
+	"project": "PSO simulation.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

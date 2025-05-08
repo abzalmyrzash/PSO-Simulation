@@ -1,0 +1,34 @@
+{
+	"folders":
+	[
+		{
+			"path": "bin/..",
+			"file_exclude_patterns": ["*.sublime-project"]
+		}
+	],
+
+	"build_systems":
+	[
+		{
+			"name": "Build from makefile",
+			"working_dir": "${project_path}",
+			"cmd": "make && start build/main.exe",
+			"selector": "source.c++",
+			"shell": true
+		},
+		{
+			"name": "Build Debug",
+			"working_dir": "${project_path}",
+			"cmd": "g++ -c src/*.cpp -std=c++11 -g -w -m64 -Iinclude -Iinclude/sdl2 && g++ *.o -o bin/debug/main -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf && start bin/debug/main",
+			"selector": "source.c++",
+			"shell": true
+		},
+		{
+			"name": "Build Release",
+			"working_dir": "${project_path}",
+			"cmd": "g++ -static -c src/*.cpp -std=c++11 -O3 -Wall -m64 -I include -Iinclude/sdl2 && g++ -static-libgcc -static-libstdc++ *.o -o bin/release/main -s -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf && start bin/release/main",
+			"selector": "source.c++",
+			"shell": true
+		}
+	]
+}
